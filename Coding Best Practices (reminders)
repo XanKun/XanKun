@@ -6,3 +6,8 @@
 6. Translate 4/5 into actual code.
 7. Test the code.
 8. Debug that.
+
+How to make good test Cases:
+1. Make sure your tests cover every error case including "insane/unlikely" options
+2. Be sure to test “too many” as well as “too few” (n-1 and n+1)
+3.
