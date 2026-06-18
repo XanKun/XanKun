@@ -1,0 +1,8 @@
+1. What is the problem we are trying to solve/automate?
+2. Work a problem yourself (plain english).
+3. Write down what you did to solve the problem (plain english).
+4. Generalize steps from 3.
+5. Test the generalized steps. // Should always be done first before coding, 30 mins minimum and multiple test cases++
+6. Translate 4/5 into actual code.
+7. Test the code.
+8. Debug that.
